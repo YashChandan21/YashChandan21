@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Dev's.....!<br>This side Yash Chandan <br>I'm an Aspiring IT Engineer.
+IT'25 || Web Dev || C/C++ || Skilled in Python <br> Passoinate about coding <br> Freelancer <br> Youtuber
 
 
 ## 🌐 Socials:
