@@ -1,21 +1,77 @@
-# 💫 About Me:
-IT'25 || Web Dev || C/C++ || Skilled in Python <br> Passoinate about coding <br> Freelancer <br> Youtuber
+<h1 align="center">Hi there 👋, I'm Yash Chandan</h1>
+<h3 align="center">Final Year Engineering Student | Full Stack Developer | Frontend Developer | Tech Content Creator</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash.chandan_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashchandan21) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashChandan_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Yashchandan21) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YashChandan21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YashChandan21&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashChandan21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YashChandan21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://github.com/YashChandan21">
+    <img src="https://komarev.com/ghpvc/?username=YashChandan21&label=Profile%20views&color=0e75b6&style=flat" alt="YashChandan21" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashchandan/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/techpro.yash">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat">
+  </a>
+  <a href="https://vercel.com/YashChandan21">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Vercel-black?logo=vercel&logoColor=white&style=flat">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YashChandan21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💡 About Me
+- 🎓 Engineering Graduate from Trinity Academy of Engineering, Pune
+- 💻 Currently learning DSA 
+- 🧠 Exploring Machine Learning & AI 
+- 📊 Frontend Development Certified | ISRO Geo-AI Certified  
+- 🎥 I create tech content on Instagram & YouTube — *@TechPro*
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/-React-black?logo=react&style=flat-square&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat-square" />
+  <img src="https://img.shields.io/badge/-ReactRouter-black?logo=react-router&style=flat-square&logoColor=CA4245" />
+  <img src="https://img.shields.io/badge/-Jest-black?logo=jest&style=flat-square&logoColor=C21325" />
+  <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat-square&logoColor=00599C" />
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🗨️ Real-Time Chatbot
+- Developed a fully functional real-time chatbot as part of a large-scale application.
+- Built using **React.js**, **Next.js**, **WebSockets**, and **Jest** for testing.
+- Designed for responsive interaction and real-time communication.
+
+---
+
+### 💼 Experience
+
+#### 🔗 [Threadsnatch.online](https://threadsnatch.online)
+- Worked on dynamic UI/UX and interactive component architecture.
+- Integrated frontend with scalable, performant logic using **React.js**, **React Router**, and **Next.js**.
+- Built and tested critical frontend interactions using **Jest** and debugging tools.
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashChandan21&show_icons=true&theme=transparent&hide_border=true" alt="Yash's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashChandan21&theme=transparent&hide_border=true" alt="Yash's GitHub streak" />
+</p>
+
+---
+
+### 📫 Let’s Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashchandan/)
+- 🌐 [Portfolio](https://vercel.com/YashChandan21)
+- 📸 [Instagram](https://www.instagram.com/techpro.yash)
+- 📧 yashchandan2002@gmail.com
+
+---
+
+> *“Code. Create. Connect.” — Let’s build something awesome together!*
